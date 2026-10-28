@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200">
+  <rect width="900" height="1200" fill="#E4E2D3"/>
+  <g fill="none" stroke="#8A9A7B" stroke-width="2" stroke-linecap="round" opacity=".9">
+    <path d="M390 610 c30 -70 90 -70 120 0 c-30 40 -90 40 -120 0z"/>
+    <path d="M390 610 l120 0"/>
+  </g>
+  <text x="50%" y="670" text-anchor="middle" font-family="DM Sans, system-ui, sans-serif" font-size="22" fill="#3F4A36">sobre-helena.jpg · 3:4</text>
+  <text x="50%" y="700" text-anchor="middle" font-family="DM Sans, system-ui, sans-serif" font-size="16" fill="#3F4A36" opacity=".75">placeholder · ver IMAGENS.md</text>
+</svg>
